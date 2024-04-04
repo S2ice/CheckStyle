@@ -1,0 +1,223 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OfferAndFindAPI
+build_property.RootNamespace = OfferAndFindAPI
+build_property.ProjectDir = C:\Users\denmi\OneDrive\Рабочий стол\OfferAndFindAPI\OfferAndFindAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\denmi\OneDrive\Рабочий стол\OfferAndFindAPI\OfferAndFindAPI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Ads/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Ads/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Ads/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Ads/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Ads/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Chats/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Chats/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Chats/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Chats/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Chats/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Messages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Messages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Messages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Messages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Messages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/RoleUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVVzZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/RoleUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVVzZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/RoleUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVVzZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/RoleUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVVzZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/RoleUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVVzZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/StatusAds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzQWRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/StatusAds/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzQWRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/StatusAds/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzQWRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/StatusAds/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzQWRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/StatusAds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzQWRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/StatusUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/StatusUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/StatusUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/StatusUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/StatusUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeAds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZUFkc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeAds/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZUFkc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeAds/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZUFkc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeAds/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZUFkc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeAds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZUFkc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeMessages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZU1lc3NhZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeMessages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZU1lc3NhZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeMessages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZU1lc3NhZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeMessages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZU1lc3NhZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeMessages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZU1lc3NhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeWorks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZVdvcmtzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeWorks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZVdvcmtzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeWorks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZVdvcmtzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeWorks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZVdvcmtzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/TypeWorks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZVdvcmtzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/denmi/OneDrive/Рабочий стол/OfferAndFindAPI/OfferAndFindAPI/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

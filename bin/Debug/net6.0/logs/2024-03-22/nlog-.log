@@ -1,0 +1,51 @@
+2024-03-22 16:06:00.0023|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-03-22 16:06:00.1981|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting
+2024-03-22 16:06:00.5319|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:8080
+2024-03-22 16:06:00.5324|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly OfferAndFindAPI
+2024-03-22 16:06:00.5324|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-03-22 16:06:00.5324|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-03-22 16:06:00.5324|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2024-03-22 16:06:00.5324|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2024-03-22 16:06:00.5324|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\denmi\OneDrive\Рабочий стол\OfferAndFindAPI\OfferAndFindAPI\
+2024-03-22 16:06:00.5324|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started
+2024-03-22 16:06:00.6021|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33S" accepted.
+2024-03-22 16:06:00.6021|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33T" accepted.
+2024-03-22 16:06:00.6021|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33T" started.
+2024-03-22 16:06:00.6021|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33S" started.
+2024-03-22 16:06:00.6302|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2AE395T33S" received FIN.
+2024-03-22 16:06:00.6302|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2AE395T33T" received FIN.
+2024-03-22 16:06:00.6302|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2AE395T33S" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-03-22 16:06:00.6302|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2AE395T33T" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-03-22 16:06:00.6302|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33S" disconnecting.
+2024-03-22 16:06:00.6302|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33T" disconnecting.
+2024-03-22 16:06:00.6302|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33S" stopped.
+2024-03-22 16:06:00.6302|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33T" stopped.
+2024-03-22 16:06:01.9013|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33U" accepted.
+2024-03-22 16:06:01.9013|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33U" started.
+2024-03-22 16:06:02.6478|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33V" accepted.
+2024-03-22 16:06:02.6919|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33V" started.
+2024-03-22 16:06:02.8643|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:8080/swagger/index.html - -
+2024-03-22 16:06:04.3218|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed.
+2024-03-22 16:06:04.3218|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-22 16:06:04.6539|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection.
+2024-03-22 16:06:04.6858|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection.
+2024-03-22 16:06:04.6868|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33U" completed keep alive response.
+2024-03-22 16:06:04.6868|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:8080/swagger/index.html - - - 200 - text/html;charset=utf-8 1834.9938ms
+2024-03-22 16:06:04.7855|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:8080/_framework/aspnetcore-browser-refresh.js - -
+2024-03-22 16:06:04.7855|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33U" completed keep alive response.
+2024-03-22 16:06:04.7907|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:8080/_framework/aspnetcore-browser-refresh.js - - - 200 13765 application/javascript;+charset=utf-8 5.0686ms
+2024-03-22 16:06:04.8711|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:8080/_vs/browserLink - -
+2024-03-22 16:06:05.1343|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33U" completed keep alive response.
+2024-03-22 16:06:05.1343|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:8080/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 263.5450ms
+2024-03-22 16:06:05.3288|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:8080/swagger/v1/swagger.json - -
+2024-03-22 16:06:05.3288|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-03-22 16:06:06.0415|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33U" completed keep alive response.
+2024-03-22 16:06:06.0415|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:8080/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 713.5618ms
+2024-03-22 16:06:06.0947|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2AE395T33V" received FIN.
+2024-03-22 16:06:06.0947|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2AE395T33U" received FIN.
+2024-03-22 16:06:06.0947|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33V" disconnecting.
+2024-03-22 16:06:06.0947|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33V" stopped.
+2024-03-22 16:06:06.1041|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33U" disconnecting.
+2024-03-22 16:06:06.1041|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2AE395T33U" stopped.
+2024-03-22 16:06:06.1041|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2AE395T33V" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-03-22 16:06:06.1041|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2AE395T33U" sending FIN because: "The Socket transport's send loop completed gracefully."

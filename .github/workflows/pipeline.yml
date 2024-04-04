@@ -1,0 +1,26 @@
+﻿name: aspnet_style_checker
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+
+  style_checker:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '8.0.100'
+
+      - name: Install StyleCopAnalyzers
+        run: dotnet add package StyleCop.Analyzers --version "*"
+
+      - name: Check C# code style
+        run: dotnet build /p:TreatWarningsAsErrors=true

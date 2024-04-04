@@ -1,0 +1,25 @@
+stages:
+  - test
+  - build
+  - testnumbertwo
+
+test-job:
+  stage: test
+  script: 
+    - echo "Test run"
+    - echo "Enter your test commands"
+
+
+build:
+  stage: build
+  script:
+    - dotnet build --configuration Release
+    - dotnet publish --no-build --no-restore --configuration Release --output $CI_PROJECT_DIR/publish/
+  only:
+    - master
+
+meow:
+  stage: testnumbertwo
+  script:
+    - echo "MEOW"
+    - echo "I AM A CAT MEOW MEOW MEOW >:3"

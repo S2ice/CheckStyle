@@ -1,0 +1,71 @@
+﻿@model IEnumerable<OfferAndFindAPI.Models.Ad>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Header)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdUser)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdType1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Text)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Salary)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Header)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdUser)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdType1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Text)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdAd">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdAd">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdAd">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

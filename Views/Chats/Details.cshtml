@@ -1,0 +1,30 @@
+﻿@model OfferAndFindAPI.Models.Chat
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Chat</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IdUser)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdUser)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.User2)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.User2)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdChat">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
